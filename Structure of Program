@@ -1,0 +1,36 @@
+Welcome, Beyonce!
+Your ID is: B00002
+
+What would you like to do?
+
+A. Check your balance
+B. Make a deposit
+C. Make a withdrawal
+D. View previous transaction
+E. Calculate interest
+F. Exit
+
+Enter an option:
+B
+
+Enter an amount to deposit:
+120
+
+
+Enter an option:
+A
+
+====================================
+Balance = $120
+====================================
+
+
+Enter an option:
+D
+
+====================================
+Deposited: 120
+====================================
+
+
+Enter an option:
